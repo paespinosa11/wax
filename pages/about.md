@@ -4,6 +4,18 @@ title: What is Wax?
 permalink: /about/
 ---
 
+Lorem *ipsum dolor* amet organic etsy tumblr vaporware twee bespoke chambray chartreuse hammock synth man braid fashion axe. Pickled chia mlkshk, [food truck](https://hipsum.co/?paras=5&type=hipster-centric&start-with-lorem=1) hot chicken cloud bread typewriter microdosing banh mi.[^1] Readymade shabby chic echo park, brunch cornhole mumblecore brooklyn fixie chillwave dreamcatcher tofu bicycle rights. Banh mi skateboard gochujang, irony pabst pop-up leggings disrupt swag banjo deep v mlkshk food truck. Enamel pin mixtape pug venmo raclette lo-fi bitters banh mi letterpress 90's chillwave schlitz prism umami bushwick. Ennui scenester try-hard, poutine tousled occupy godard gentrify glossier locavore copper mug kogi irony poke biodiesel.
+
+Snackwave freegan brooklyn crucifix raw denim master cleanse austin. Fanny pack PBR&B four loko meggings slow-carb knausgaard. Schlitz occupy shaman selvage fixie leggings.[^3] Cliche waistcoat sriracha chia, raclette salvia aesthetic man bun air plant blue bottle chartreuse.
+
+[^1]: This is the content of this footnote.Bananas.
+
+Art party man bun yuccie poke literally 90's irony beard cred skateboard thundercats organic snackwave food truck disrupt. Messenger bag direct trade disrupt yuccie iceland activated charcoal tumeric 3 wolf moon. Fingerstache kitsch leggings, ennui readymade celiac thundercats cold-pressed chia master cleanse lomo green juice direct trade. Raw denim put a bird on it before they sold out health goth leggings trust fund post-ironic enamel pin.
+
+Oh. You need a little dummy text for your mockup? How quaint.
+
+[^3]: This one is mangoes.
+
 **Wax helps you create digital exhibits.**   
 A digital exhibit is a collection of curated cultural artifacts—manuscripts, paintings, photographs, sculptures, etc—often accompanied by an explicit narrative or argument. Though Wax focuses on images and text, it could be used for sound or video collections with some customization.
 
